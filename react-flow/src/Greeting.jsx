@@ -6,6 +6,7 @@ function Greeting()
         <p>Hi,Hello Welcome to React Classes.
         React is very powerful in Real time.
         </p>
+        <h2>Thanks for visiting</h2>
         </>
     )
 }
