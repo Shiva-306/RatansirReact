@@ -25,4 +25,4 @@ dist-ssr
 
 
 #custom ignore files
-App1.jsx
+react-flow/src/App1.jsx
